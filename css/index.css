@@ -180,6 +180,12 @@ img {
   background: #FFFFFF;
   border-bottom: 2px dashed #C0C0C0;
   position: fixed;
+  z-index: 10;
+}
+.main-navigation .fun-bus-icon {
+  position: absolute;
+  width: 50px;
+  bottom: 0px;
 }
 .main-navigation .nav-container {
   height: 100%;
@@ -219,6 +225,11 @@ img {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
   background: #FFEBCD;
+}
+.footer .footer-bus-icon {
+  position: relative;
+  width: 50px;
+  bottom: 0px;
 }
 .footer p {
   text-align: center;
